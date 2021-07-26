@@ -44,7 +44,7 @@ function Proect() {
                 setPrevent(true);
                 clearTimeout(timerInstance);
                             
-            }, 200);
+            }, 300);
         } else {
             if (subscription) {
                 subscription.unsubsribe();
